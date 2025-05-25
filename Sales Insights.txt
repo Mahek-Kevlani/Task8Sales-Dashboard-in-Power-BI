@@ -1,0 +1,37 @@
+Sales Insights – Superstore Dataset (Power BI Dashboard)
+
+1. The West region consistently recorded the highest sales volume throughout the year, contributing over 35% of total revenue. The Central and East regions followed closely, while the South region lagged behind.
+
+2. The Technology category outperformed the others in terms of both sales and profit. Within Technology, Phones and Accessories contributed the most to total revenue. The Office Supplies category generated high sales volume but comparatively lower profits, likely due to lower margins.
+
+3. Monthly sales trends showed a clear seasonality. Sales peaked in November and December, possibly due to holiday shopping events. July and March also showed noticeable spikes, potentially aligning with mid-year and fiscal-year-end spending cycles.
+
+4. The profitability trend did not always align with high sales. For example, Furniture had moderate sales but often low or even negative profit margins, especially in the Bookcases and Tables sub-categories.
+
+5. When filtered by Region, the West maintained steady performance across all product categories. The East region showed variability, especially in Office Supplies, which had erratic sales patterns.
+
+6. High-discount orders frequently correlated with low or negative profits. In some months, segments with over 30% discount offered resulted in net losses, suggesting that excessive discounting may be hurting profitability.
+
+7. Segment-wise analysis revealed that the Corporate segment had higher average order values, while the Home Office segment, although smaller in volume, had a high profit-to-sales ratio.
+
+8. The Line Chart showed an upward sales trend in the second half of the year, with Technology products driving this surge. The Donut Chart further confirmed that Technology alone contributed more than 40% of the total annual revenue.
+
+9. The Bar Chart emphasized regional disparities. The West dominated, but the Central region made noticeable gains in the second and third quarters, suggesting effective promotional or regional campaigns.
+
+10. From the slicer analysis, filtering by 'Technology' and 'West' produced the highest revenue combination, reinforcing the strength of that market-product pair.
+
+11. Overall, inventory planning should focus more on Technology products for Q3–Q4 periods and consider adjusting pricing or discount strategies for underperforming sub-categories in Furniture.
+
+12. A deeper look at sub-category performance revealed that Machines, Phones, and Copiers yielded the highest profits per unit sold, suggesting they should be prioritized in marketing campaigns.
+
+13. Losses in the Furniture category, especially in Tables and Bookcases, indicate the need for reviewing supplier costs, delivery efficiency, or discount strategies in that segment.
+
+14. Customer loyalty appears strongest in the West, with repeat purchases contributing significantly to Q3 and Q4 sales — an area ripe for loyalty programs or regional promotions.
+
+15. Based on the dashboard findings, future sales strategy should include:
+    - Targeted campaigns in the South to boost sales
+    - Optimized discounting to protect margins
+    - Leveraging high-performing categories (Technology)
+    - Seasonal inventory boosts in Q4
+
+End of insights.
